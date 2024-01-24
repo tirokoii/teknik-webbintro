@@ -12,9 +12,19 @@ Det här är roligt
 
 - Byt teman
 
-- Skapat en HTML file
+- Skapat en HTML och CSS file
 
-- 
+- Lagt till text och bild
+
+- Skapat about.html
+  
+- Skapat navigation bar och länkat om till about.html
+
+- Skapat hem, hus och teknik -html filer
+
+- Skrivit beskrivning och fakta om HTML, CSS och GitHub
+
+- Färdigställt min webbsida
 
 ### Bash commandon
 
@@ -28,8 +38,8 @@ Det här är roligt
 
 #### Emmet tips
 
--'html:5' 
+- 'html:5' 
 
--ul.navigation
+- 'ul.navigation'
 
 
