@@ -12,7 +12,7 @@ Det här är roligt
 
 - Byt teman på Visual Studio Code
 
-- Skapat en HTML (index.html) och CSS file
+- Skapat en HTML (index.html) och CSS (style.css) file
 
 - Lagt till text och bild till HTML webbsidan
 
