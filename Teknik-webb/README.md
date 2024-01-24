@@ -12,6 +12,10 @@ Det här är roligt
 
 - Byt teman
 
+- Skapat en HTML file
+
+- 
+
 ### Bash commandon
 
 - 'ls' - list
@@ -21,5 +25,11 @@ Det här är roligt
 - 'pwd' - look if you have right folder
 
 - 'mkdir' - make new file in folder
+
+#### Emmet tips
+
+-'html:5' 
+
+-ul.navigation
 
 
