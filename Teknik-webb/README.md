@@ -36,7 +36,7 @@ Det här är roligt
 
 - 'mkdir' - make new file in folder
 
-#### Emmet tips
+#### Genvägar
 
 - 'html:5' 
 
