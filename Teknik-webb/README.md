@@ -2,27 +2,27 @@
 
 Det här är roligt
 
-## Vad har vi gjort?
+## Vad har jag gjort?
 
 - Skapat konton på github
 
-- Lärt oss om visual studio och git bash
+- Lärt mig om visual studio och git bash
 
 - Gjort en README file
 
-- Byt teman
+- Byt teman på Visual Studio Code
 
-- Skapat en HTML och CSS file
+- Skapat en HTML (index.html) och CSS file
 
-- Lagt till text och bild
+- Lagt till text och bild till HTML webbsidan
 
 - Skapat about.html
   
-- Skapat navigation bar och länkat om till about.html
+- Skapat navigation bar och länkat "om" till about.html
 
-- Skapat hem, hus och teknik -html filer
+- Skapat hem, hus och teknik -HTML filer
 
-- Skrivit beskrivning och fakta om HTML, CSS och GitHub
+- Skrivit om webbsidan samt fakta om HTML, CSS och GitHub på teknik länken
 
 - Färdigställt min webbsida
 
