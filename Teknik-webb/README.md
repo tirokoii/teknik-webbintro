@@ -16,7 +16,7 @@ Det här är roligt
 
 - Lagt till text och bild till HTML webbsidan
 
-- Skapat about.html
+- Skapat about.html file
   
 - Skapat navigation bar och länkat "om" till about.html
 
