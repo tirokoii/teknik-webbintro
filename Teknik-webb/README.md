@@ -26,7 +26,7 @@ Det här är roligt
 
 - Färdigställt min webbsida
 
-### Bash commandon
+## Bash commandon
 
 - 'ls' - list
 
@@ -36,7 +36,7 @@ Det här är roligt
 
 - 'mkdir' - make new file in folder
 
-#### Genvägar
+### Genvägar
 
 - 'html:5' 
 
